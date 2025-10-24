@@ -1,1 +1,10 @@
 Flask==3.0.3
+
+# --- Database ---
+SQLAlchemy
+PyMySQL
+python-dotenv
+
+# --- Optional for API (if using FastAPI) ---
+FastAPI
+uvicorn
